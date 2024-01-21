@@ -12,7 +12,7 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 - **API Gateway and Lambda**: The project uses AWS Gateway API to trigger Lambda functions for API calls. These Lambda functions access data in DynamoDB.
 - **DynamoDB**: DynamoDB is used as a data store to manage information presented on the portfolio.
 - **SES (Simple Email Service)**: Lambda functions are configured to send notification emails using SES.
-![Website Cloud Architecture](/.eraser/jo5AabYwugeAJSGEg2Xr___ZyuCQ5RWGzOcvH70Y8Aipy4YHP62___---figure---_aRDz-81V2e9u98rO7geu---figure---CAaStYMHxUIvTF2s2SywKw.png "Website Cloud Architecture")
+![Website Cloud Architecture](/.eraser/jo5AabYwugeAJSGEg2Xr___ZyuCQ5RWGzOcvH70Y8Aipy4YHP62___---figure---EcJEzPabyVHbEjoxq5eOU---figure---CAaStYMHxUIvTF2s2SywKw.png "Website Cloud Architecture")
 
 ## Setup and Deployment
 1. **Clone the Repository:**git clone https://github.com/your-username/your-portfolio.git
