@@ -7,6 +7,7 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 - **React App**: The portfolio is built using React.js. The source code is organized in the `src`  directory.
 - **AWS Services**:
     - **S3**: The React build files are hosted in an S3 bucket.
+    - **Certificate Manager**: https certificate
     - **CloudFront**: Content Delivery Network (CDN) for faster content delivery.
     - **Route 53**: Domain management for the custom domain [﻿phucthaihg.site](https://phucthaihg.site/) .
 - **API Gateway and Lambda**: The project uses AWS Gateway API to trigger Lambda functions for API calls. These Lambda functions access data in DynamoDB.
@@ -15,11 +16,19 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 ![Website Cloud Architecture](/.eraser/jo5AabYwugeAJSGEg2Xr___ZyuCQ5RWGzOcvH70Y8Aipy4YHP62___---figure---EcJEzPabyVHbEjoxq5eOU---figure---CAaStYMHxUIvTF2s2SywKw.png "Website Cloud Architecture")
 
 ## Setup and Deployment
-1. **Clone the Repository:**git clone https://github.com/your-username/your-portfolio.git
-cd your-portfolio
-2. **Install Dependencies:** npm install
-3. **_Run the React App:_npm start
+1. **Clone the Repository:**
+   ```bash
+    git clone https://github.com/your-username/your-portfolio.git
+    cd your-portfolio
+3. **Install Dependencies:**
+   ```bash
+    npm install
+5. **_Run the React App:**
+   ```bash
+    npm start
 
-
+## Reference
+1. **Template:**[template](https://styleshout.com/free-templates/kards/)
+2. **Setup Certificate, Cloudfront, Route53, S3:** [youtube](https://www.youtube.com/watch?v=mls8tiiI3uc&ab_channel=BeABetterDev)
 
 <!--- Eraser file: https://app.eraser.io/workspace/jo5AabYwugeAJSGEg2Xr --->
