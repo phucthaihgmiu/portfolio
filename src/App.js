@@ -4,6 +4,7 @@ import Intro from './components/Intro/Intro';
 import About from './components/About/About';
 import Resume from './components/Resume/Resume';
 import Contact from './components/Contact/Contact';
+import Services from './components/Services/Services';
 import { Helmet } from 'react-helmet';
 
 const App = () => {
@@ -17,7 +18,10 @@ const App = () => {
       {/*<Intro />*/}
       <About />
       <Resume />
+      <Services />
       <Contact />
+      
+
     </div>
   );
 };

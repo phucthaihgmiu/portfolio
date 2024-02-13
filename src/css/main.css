@@ -1524,6 +1524,15 @@ header .logo a {
 	padding-left: 13rem;
 }
 
+.service-info{
+	margin-top: 4.2rem;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+.service-info p{
+	text-align: left;
+}
 .about-content {
 	position: relative;
 	text-align: left;
